@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mzuhairhamzah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mzuhairhamzah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/m-zuhair-hamzah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mzuhairhamzah" height="30" width="40" /></a>
 <a href="https://fb.com/mzuhairhamzah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mzuhairhamzah" height="30" width="40" /></a>
 <a href="https://instagram.com/zuheeerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zuheeerr" height="30" width="40" /></a>
 <a href="https://discord.gg/mzuhairhamzah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mzuhairhamzah" height="30" width="40" /></a>
