@@ -1,5 +1,5 @@
 <!---
-mzuhairhamzah/mzuhairhamzah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mzuhairhamzah/mzuhairhamzah is a ✨ specials ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm M Zuhair Hamzah</h1>
