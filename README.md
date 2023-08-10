@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzuhairhamzah&label=Profile%20views&color=0e75b6&style=flat" alt="mzuhairhamzah" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **Central Agency for Technology**
+- 🔭 I’m currently working on **Agency Tech**
 
 - 🌱 I’m currently learning **Laravel**
 
