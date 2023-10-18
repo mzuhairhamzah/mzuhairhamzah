@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Agency Tech**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel & Go**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel & Go**
 
 - 📫 How to reach me **zuhair.hamzah08@gmail.com**
 
