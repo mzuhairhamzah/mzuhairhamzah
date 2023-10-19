@@ -1,6 +1,6 @@
 <!---
 mzuhairhamzah/mzuhairhamzah is a ✨ specials ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes..
 --->
 <h1 align="center">Hi 👋, I'm M Zuhair Hamzah</h1>
 <h3 align="center">A passionate IT student from Indonesia. I work at Corporate IT Sector and in my spare time I learn to build a website</h3>
