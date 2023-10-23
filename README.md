@@ -12,8 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **ReactJs**
-
 - 📫 How to reach me **zuhair.hamzah08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
