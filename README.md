@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mzuhairhamzah&show_icons=true&theme=algolia&locale=en" alt="mzuhairhamzah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzuhairhamzah&" alt="mzuhairhamzah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzuhairhamzah&theme=algolia" alt="mzuhairhamzah" /></p>
